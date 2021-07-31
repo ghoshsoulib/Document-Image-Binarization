@@ -1,0 +1,20 @@
+Method Name: CMATER_JU
+
+Author List:
+Soulib Ghosh, Suman Kumar Bera, Showmik Bhowmik, Ram Sarkar
+
+Method Description: 
+Our binarization method follows a two-stage approach. 
+The first stage consists of background separation and the second stage contains binarization technique. 
+For background separation, firstly a superset of foreground estimated by Niblack’s method which acts as a mask. 
+Then, the background surfaced image is obtained which is followed by image normalization. 
+The binarization technique comprises clustering combination approach. 
+To incorporate the positive sides of various clustering algorithms, combination of three popular clustering algorithms is adopted.
+
+
+Steps to execute the executable file:   
+
+1) Install the appropriate MCR.
+2) Copy the exe file in the dataset directory. 
+3) provide the image name after the exe file.  
+4) Call the exe from cmd prompt as : JU_CMATER.exe "1.bmp"  
