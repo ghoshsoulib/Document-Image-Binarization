@@ -1,0 +1,1 @@
+batchFormation('E:\collage_research_work\MATLAB_PROJECT\combining cluster\experiment\input\','E:\collage_research_work\MATLAB_PROJECT\combining cluster\experiment\input\','bmp')

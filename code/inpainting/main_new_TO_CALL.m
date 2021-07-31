@@ -1,0 +1,1 @@
+batchFormation('E:\MATLAB_PROJECT\combining cluster\input\DIPCO2016_dataset\','E:\MATLAB_PROJECT\combining cluster\output\','bmp')

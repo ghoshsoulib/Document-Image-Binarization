@@ -1,0 +1,1 @@
+batchFormation('E:\MATLAB_PROJECT\combining cluster\input\','E:\MATLAB_PROJECT\combining cluster\evaluation\','bmp')
